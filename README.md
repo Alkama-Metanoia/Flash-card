@@ -5,11 +5,11 @@ Welcome to the Flash Card Language Learning Project! This project aims to help u
 
 Features
 
--French to English translation flashcards
--Automatic language switching every 3 seconds
--User-friendly interface
--Easy navigation between cards
--Progress tracking
+-French to English translation flashcards.
+-Automatic language switching every 3 seconds.
+-User-friendly interface.
+-Easy navigation between cards.
+-Progress tracking.
 
 How to use
 
